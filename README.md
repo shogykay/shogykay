@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](https://github.com/[shogykay/MusicWebApp/blob/[main/music_website.png?raw=true)
 
 - 🔭 I’m currently working on a web application for my music 
 - 🌱 I’m currently learning working on fullstack development and Cybersecurity, learning the basic fundamentals which include javascript
